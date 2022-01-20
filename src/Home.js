@@ -18,7 +18,7 @@ export class Home extends Component {
                         </div>
                     </div>
                     <div className="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                         <img src="hero-img.png" className="img-fluid animated" alt=""/>
+                         <img src="./images/hero-img.png" className="img-fluid animated" alt=""/>
                     </div>
                 </div>
                 </div>

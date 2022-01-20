@@ -3,9 +3,9 @@ import React from 'react';
 const Header = () => {
     return(
           <header>
-            <h3 class="h3">LIVE VIRTUAL CLASS</h3>
-            <img src="cool-background.png" alt="background"></img>
-    
+            <img src="./images/cool-background.png" alt="background"></img>    
+            <h3>LIVE VIRTUAL CLASS</h3>
+            
           </header>       
   
     );

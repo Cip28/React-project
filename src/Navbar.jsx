@@ -5,16 +5,15 @@ const Navbar = () => {
     return (
      
  <nav>      
-      <ul class="links">
-        <li><Link to="/Home">Home</Link></li>
-        <li>
-          <Link class="desktop-link" to="/Product">Product {'>'}</Link>
+      <ul className="links">
+        <li><Link to="/">Home</Link></li>
+        <li><Link className="desktop-link" to="">Product {'>'}</Link>
           <ul>
             <li><a href="https://www.javascript.com/">Javascript</a></li>
-            <li><a href="#">HTML/CSS</a></li>
+            <li><a href=" ">HTML/CSS</a></li>
             <li>
-              <a href="#" class="desktop-link">Frameworks {'>'}
-                <span class="fa fa-plus"><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+              <a href=" " className="desktop-link">Frameworks {'>'}
+                <span className="fa fa-plus"><i className="fa fa-arrow-right" aria-hidden="true"></i></span>
               </a>
       
               <ul>
