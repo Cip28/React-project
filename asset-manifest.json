@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-project/static/css/main.1e7cbcc7.chunk.css",
-    "main.js": "/React-project/static/js/main.edbadac6.chunk.js",
-    "main.js.map": "/React-project/static/js/main.edbadac6.chunk.js.map",
+    "main.js": "/React-project/static/js/main.34d33d75.chunk.js",
+    "main.js.map": "/React-project/static/js/main.34d33d75.chunk.js.map",
     "runtime-main.js": "/React-project/static/js/runtime-main.a5a58807.js",
     "runtime-main.js.map": "/React-project/static/js/runtime-main.a5a58807.js.map",
     "static/css/2.818011ed.chunk.css": "/React-project/static/css/2.818011ed.chunk.css",
@@ -11,13 +11,29 @@
     "index.html": "/React-project/index.html",
     "static/css/2.818011ed.chunk.css.map": "/React-project/static/css/2.818011ed.chunk.css.map",
     "static/css/main.1e7cbcc7.chunk.css.map": "/React-project/static/css/main.1e7cbcc7.chunk.css.map",
-    "static/js/2.1a45dc71.chunk.js.LICENSE.txt": "/React-project/static/js/2.1a45dc71.chunk.js.LICENSE.txt"
+    "static/js/2.1a45dc71.chunk.js.LICENSE.txt": "/React-project/static/js/2.1a45dc71.chunk.js.LICENSE.txt",
+    "static/media/angular.ad5c8f7e.jpg": "/React-project/static/media/angular.ad5c8f7e.jpg",
+    "static/media/class1.18bb19df.jpg": "/React-project/static/media/class1.18bb19df.jpg",
+    "static/media/class2.07c5f220.jpg": "/React-project/static/media/class2.07c5f220.jpg",
+    "static/media/class3.9284a0ce.jpg": "/React-project/static/media/class3.9284a0ce.jpg",
+    "static/media/cool-background.9aef0e48.png": "/React-project/static/media/cool-background.9aef0e48.png",
+    "static/media/hero-img.593960b6.png": "/React-project/static/media/hero-img.593960b6.png",
+    "static/media/htmlcss.7470cf35.jpg": "/React-project/static/media/htmlcss.7470cf35.jpg",
+    "static/media/office1.ffee21d1.jpg": "/React-project/static/media/office1.ffee21d1.jpg",
+    "static/media/office2.becec42a.jpg": "/React-project/static/media/office2.becec42a.jpg",
+    "static/media/office3.1e087fda.jpg": "/React-project/static/media/office3.1e087fda.jpg",
+    "static/media/react.b2a87a53.png": "/React-project/static/media/react.b2a87a53.png",
+    "static/media/travel.f7a83289.jpg": "/React-project/static/media/travel.f7a83289.jpg",
+    "static/media/travel2.4a0502e9.jpg": "/React-project/static/media/travel2.4a0502e9.jpg",
+    "static/media/travel3.e07dce12.jpg": "/React-project/static/media/travel3.e07dce12.jpg",
+    "static/media/vue.8419425e.png": "/React-project/static/media/vue.8419425e.png",
+    "static/media/web.41a3d8cf.png": "/React-project/static/media/web.41a3d8cf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a5a58807.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.1a45dc71.chunk.js",
     "static/css/main.1e7cbcc7.chunk.css",
-    "static/js/main.edbadac6.chunk.js"
+    "static/js/main.34d33d75.chunk.js"
   ]
 }
