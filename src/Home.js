@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import hero from "./images/hero-img.png";
 
 export class Home extends Component {
   render() {
@@ -29,7 +30,7 @@ export class Home extends Component {
               data-aos-delay="200"
             >
               <img
-                src="./images/hero-img.png"
+                src={hero}
                 className="img-fluid animated"
                 alt=""
               />

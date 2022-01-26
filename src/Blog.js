@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import ReactTextCollapse from "react-text-collapse/dist/ReactTextCollapse";
 import data from "./dataBlog.js";
 

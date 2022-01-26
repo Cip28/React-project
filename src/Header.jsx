@@ -1,9 +1,10 @@
 import React from "react";
+import background from './images/cool-background.png'
 
 const Header = () => {
   return (
     <header>
-      <img src="./images/cool-background.png" alt="background"></img>
+      <img src={background} alt="background"></img>
       <h3>LIVE VIRTUAL CLASS</h3>
     </header>
   );
